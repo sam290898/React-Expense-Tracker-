@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Expense Tracker using Context API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
